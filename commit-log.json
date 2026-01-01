@@ -1,8 +1,8 @@
 {
   "engine": "GitStreak",
-  "preset": "consistent-daily",
-  "total_commits": 18,
-  "startDate": "2026-08-01",
-  "endDate": "2026-08-06",
-  "executedAt": "2026-08-20T19:28:25.764741+00:00"
+  "preset": "random-burst",
+  "total_commits": 71,
+  "startDate": "2026-01-01",
+  "endDate": "2026-01-15",
+  "executedAt": "2026-08-21T00:28:41.042144+00:00"
 }
